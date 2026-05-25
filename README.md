@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me:
 
-<!--
-**kalashkaushal123/kalashkaushal123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 💫 Hey there! I’m Kalash
 
-Here are some ideas to get you started:
+> Full Stack Developer who turns coffee ☕ into clean, scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently building full-stack apps with React, Tailwind CSS & Python , Django
+
+- 🌱 Always leveling up — currently diving deeper into system design & cloud architecture
+
+- ⚡ I love crafting beautiful UIs and powerful backends that just work
+
+- 🛠️ Stack: JavaScript · React · Python · Django · REST APIs
+
+- 💡 Fun fact: I debug better with lo-fi beats in the background 🎧
+
+- 📫 Open to collabs, freelance work, and cool ideas!
+
+
+💻 Tech Stack:
+CSS3 JavaScript HTML5 Python Vercel Render Django DjangoREST React React Native React Router React Hook Form Redux Vite TailwindCSS Bootstrap JWT MySQL SQLite Adobe Photoshop Adobe Lightroom Classic Adobe Illustrator Canva Figma Git GitHub
+
+
+🌐 Socials:
+Instagram email
